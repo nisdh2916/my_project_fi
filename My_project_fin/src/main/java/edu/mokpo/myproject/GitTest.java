@@ -11,5 +11,6 @@ package edu.mokpo.myproject;
 public class GitTest {
     public void gittest(){
         System.out.println("My Second task");
+        System.out.print("Third ");
     }
 }
